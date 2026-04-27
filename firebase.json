@@ -22,8 +22,8 @@
     ],
     "rewrites": [
       {
-        "source": "/generateQuest",
-        "function": "generateQuest"
+        "source": "/api/createQuest",
+        "function": "createQuest"
       }
     ]
   }
